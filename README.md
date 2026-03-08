@@ -1,4 +1,4 @@
-# Orkut Navigator
+# Orkut Excavator
 This script allows users to search for terms inside the Orkut archives on the Wayback Machine, since the death of the social network huge amounts of content have been lost and hard to find, that this script may help some find what they're looking for. Support The Internet Archive.
 
 ## Setup
